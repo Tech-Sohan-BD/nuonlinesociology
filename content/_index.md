@@ -1,7 +1,6 @@
 ---
 title: My Site
 toc: false
-type: home
 ---
 
 This is the landing page.
