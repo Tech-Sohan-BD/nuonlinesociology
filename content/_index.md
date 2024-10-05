@@ -11,7 +11,6 @@ This is the landing page.
 {{< cards >}}
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
-	 {{< card link="honours" title="Honours" >}}
 {{< /cards >}}
 
 ## Documentation
