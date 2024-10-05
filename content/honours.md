@@ -3,4 +3,4 @@ title: Honours
 type: honours
 ---
 
-This is the about page.
+This is the honours page.
